@@ -1,4 +1,4 @@
-# CK-Detect: AI-Generated Text Detection via Conditional Kolmogorov Complexity
+# Conditional Kolmogorov Complexity for AI-Generated Text Detection
 
 This repository contains the code and datasets for **CK-Detect**, a compression-based framework for detecting AI-generated text. CK-Detect combines two Kolmogorov-complexity signals — rewrite-conditioned and corpus-conditioned — into a unified logistic regression classifier.
 
