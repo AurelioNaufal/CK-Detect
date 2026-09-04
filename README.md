@@ -2,8 +2,6 @@
 
 This repository contains the code and datasets for **CK-Detect**, a compression-based framework for detecting AI-generated text. CK-Detect combines two Kolmogorov-complexity signals — rewrite-conditioned and corpus-conditioned — into a unified logistic regression classifier.
 
-This is a minimal, method-only release: just the three method scripts and the feature code they share, so the method can be run and inspected directly. It does not include the baseline reproductions (RoBERTa, Raidar, Fast-DetectGPT, Binoculars, etc.) or the paper's ablation/reproduction tooling — see the paper for those results.
-
 ## Overview
 
 CK-Detect uses two complementary signals:
